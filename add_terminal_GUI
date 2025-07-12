@@ -1,0 +1,8 @@
+# Install Tilix terminal
+sudo apt install tilix
+
+# Install KDE Plasma desktop
+sudo apt install kde-plasma-desktop
+
+# Install XFCE terminal and GUI
+sudo apt install xfce4 xfce4-terminal
